@@ -13,28 +13,31 @@ QUICK SETUP
 
 <div align="center">
 
-# Hi 👋, I'm Shashank
+# Hi 👋, I'm Shubham Vishwakarma
 
 <a href="https://github.com/YOUR_GITHUB_USERNAME">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=850&color=2F81F7&center=true&vCenter=true&repeat=true&width=760&height=70&lines=ASP.NET+Core+Developer;AI+%26+RAG+Engineer;Building+Intelligent+Legal+Systems;Azure+OpenAI+%7C+Qdrant+%7C+SQL+Server;Clean+Architecture+%7C+Production-Ready+APIs"
-    alt="Animated typing introduction"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=850&color=2F81F7&center=true&vCenter=true&repeat=true&width=850&height=70&lines=Full+Stack+.NET+Developer;ASP.NET+Core+%7C+React+Developer;Building+Enterprise+CRM+Applications;AI+Integration+%7C+OpenAI+%7C+MCP;Payment+Gateway+Integration;Founder+%40+Core+AI+Solutions"
+    alt="Typing SVG"
   />
 </a>
 
 <br/>
 
 <a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=2f81f7&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=2f81f7&style=flat-square" />
 </a>
+
 <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=followers">
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=flat-square&logo=github" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=flat-square&logo=github" />
 </a>
+
 <a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white" />
 </a>
+
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 
 </div>
@@ -43,15 +46,48 @@ QUICK SETUP
 
 ## 👨‍💻 About Me
 
-I am a backend and AI application developer focused on building reliable, secure, and production-ready systems with **ASP.NET Core**, **SQL Server**, **Azure OpenAI**, and **Qdrant**.
+I'm a **Full Stack .NET Developer** with **3+ years of experience** building scalable enterprise applications using **ASP.NET Core**, **React**, **SQL Server**, and modern AI technologies.
 
-- 🔭 Building **Document RAG**, **CRM AI reporting**, and **Indian Legal AI** systems
-- 🧠 Working with embeddings, semantic search, hybrid retrieval, reranking, and conversational context
-- 📄 Implementing PDF extraction and OCR for digital, scanned, and mixed documents
-- 🏗️ Interested in clean architecture, dependency injection, secure APIs, and multi-tenant applications
-- 💬 Ask me about **C#**, **ASP.NET Core**, **EF Core**, **SQL Server**, **Azure OpenAI**, **Qdrant**, or **RAG**
-- 📫 Reach me at **YOUR_EMAIL**
+I enjoy solving real business problems by developing secure, high-performance APIs, CRM platforms, loyalty management systems, and AI-powered applications.
 
+### 🚀 What I'm Working On
+
+- 🤖 AI-powered CRM & Chat Applications using OpenAI
+- 🎁 Loyalty & Reward Management Platforms
+- 💳 Payment Gateway Integration (Cashfree & Razorpay)
+- 🌐 Enterprise Web Applications with ASP.NET Core & React
+- ⚡ REST APIs, Authentication & Clean Architecture
+- 📊 SQL Server Optimization & Report Automation
+
+### 💡 Ask Me About
+
+- ASP.NET Core Web API
+- C#
+- Entity Framework Core
+- SQL Server
+- React & Next.js
+- REST API Development
+- AI Integration
+- OpenAI APIs
+- Payment Gateway Integration
+- Clean Architecture
+
+### 🌱 Currently Learning
+
+- AI Agents
+- MCP (Model Context Protocol)
+- Advanced AI Automation
+- Cloud Deployment & DevOps
+
+### 🏆 Experience
+
+- 💼 Full Stack .NET Developer
+- 🏢 CFCS Cloud Solutions Pvt. Ltd.
+- 🚀 Founder of Core AI Solutions
+
+### 📫 Contact
+
+- 📧 vishwakarma.subham527@gmail.com
 ---
 
 ## 🚀 Featured Projects
