@@ -83,7 +83,6 @@ I enjoy solving real business problems by developing secure, high-performance AP
 
 - 💼 Full Stack .NET Developer
 - 🏢 CFCS Cloud Solutions Pvt. Ltd.
-- 🚀 Founder of Core AI Solutions
 
 ### 📫 Contact
 
