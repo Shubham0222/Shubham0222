@@ -250,7 +250,7 @@ A secure gift-card redemption workflow integrated with customer points, transact
 <a href="mailto:subham.vishwakarma527@gmail.com">
   <img src="https://img.shields.io/badge/Email-Send%20a%20Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="https://www.linkedin.com/in/shubham790552/">
+<a href="https://www.linkedin.com/in/subham790552/">
   <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <br/><br/>
