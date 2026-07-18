@@ -78,7 +78,7 @@ I enjoy solving real business problems by developing secure, high-performance AP
 
 ### 📫 Contact
 
-- 📧 vishwakarma.subham527@gmail.com
+- 📧 subham.vishwakarma527@gmail.com
 ---
 
 ## 🚀 Featured Projects
