@@ -17,7 +17,7 @@ QUICK SETUP
 
 <a href="https://github.com/YOUR_GITHUB_USERNAME">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=850&color=2F81F7&center=true&vCenter=true&repeat=true&width=850&height=70&lines=Full+Stack+.NET+Developer;ASP.NET+Core+%7C+React+Developer;Building+Enterprise+CRM+Applications;AI+Integration+%7C+OpenAI+%7C+MCP;Payment+Gateway+Integration;Founder+%40+Core+AI+Solutions"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=850&color=2F81F7&center=true&vCenter=true&repeat=true&width=850&height=70&lines=Full+Stack+.NET+Developer;ASP.NET+Core+%7C+React+Developer;Building+Enterprise+CRM+Applications;AI+Integration+%7C+OpenAI+%7C+MCP;Payment+Gateway+Integration;"
     alt="Typing SVG"
   />
 </a>
