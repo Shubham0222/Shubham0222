@@ -18,7 +18,7 @@
   </a>
 </p>
 
-Greater Noida, Uttar Pradesh, India
+Noida, Uttar Pradesh, India
 
 </div>
 
