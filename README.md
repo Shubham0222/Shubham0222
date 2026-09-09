@@ -55,7 +55,6 @@ I'm currently working on **[Loyalty Nest](https://loyaltynestai.com/)**, includi
 | **Security** | JWT authentication, OAuth 2.0, RBAC, AES-256 encryption |
 | **Azure** | Azure Key Vault, Azure Cognitive Services (OCR), Azure-hosted GPT models |
 | **AI Integration** | Retrieval-augmented generation (RAG), embeddings, text chunking |
-| **Testing and Code Quality** | Manual testing, SonarQube |
 | **Tools** | Git, Asana |
 
 ---
