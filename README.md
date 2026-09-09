@@ -1,36 +1,24 @@
-<!--
-===============================================================================
-QUICK SETUP
-===============================================================================
-1. Replace every YOUR_GITHUB_USERNAME with your exact GitHub username.
-2. Replace YOUR_EMAIL with your email address.
-3. Replace YOUR_LINKEDIN_USERNAME with your LinkedIn public profile name.
-4. Update the three featured-project repository URLs if your repository names differ.
-5. Keep .github/workflows/snake.yml in the same profile repository.
-6. Open GitHub -> Actions -> Generate Contribution Snake -> Run workflow once.
-===============================================================================
--->
-
 <div align="center">
 
-# Hi 👋, I'm Shubham Vishwakarma
+# Hi 👋, I'm Subham Vishwakarma
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=850&color=2F81F7&center=true&vCenter=true&repeat=true&width=850&height=70&lines=Full+Stack+.NET+Developer;ASP.NET+Core+%7C+React+Developer;Building+Enterprise+CRM+Applications;AI+Integration+%7C+OpenAI+%7C+MCP;Payment+Gateway+Integration;"
-    alt="Typing SVG"
-  />
-</a>
+### .NET Full Stack Engineer · Angular · ASP.NET Core · Azure
 
-<br/>
+<img
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=23&amp;duration=3200&amp;pause=850&amp;color=2F81F7&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=850&amp;height=60&amp;lines=ASP.NET+Core+%7C+Angular+%7C+Azure;B2B+SaaS+%7C+Loyalty+Platforms;AI+Reporting+%7C+RAG+%7C+Azure+GPT;REST+APIs+%7C+Payment+Integrations"
+  alt="ASP.NET Core, Angular, Azure, B2B SaaS, loyalty platforms, AI reporting, and payment integrations"
+/>
 
-<a href="mailto:subham.vishwakarma527@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-</a>
+<p>
+  <a href="mailto:subham.vishwakarma527@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat-square" alt="Email Subham" />
+  </a>
+  <a href="https://www.linkedin.com/in/subham790552/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square" alt="Connect on LinkedIn" />
+  </a>
+</p>
 
-<a href="https://www.linkedin.com/in/subham790552/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
+Greater Noida, Uttar Pradesh, India
 
 </div>
 
@@ -38,223 +26,109 @@ QUICK SETUP
 
 ## 👨‍💻 About Me
 
-I'm a **Full Stack .NET Developer** with **3+ years of experience** building scalable enterprise applications using **ASP.NET Core**, **React**, **SQL Server**, and modern AI technologies.
+I'm a **.NET Full Stack Engineer** with **3+ years of full-time experience** building enterprise applications using **C#**, **ASP.NET Core**, **Angular**, **Entity Framework Core**, **SQL Server**, and **Azure integrations**.
 
-I enjoy solving real business problems by developing secure, high-performance APIs, CRM platforms, loyalty management systems, and AI-powered applications.
+My work spans **B2B SaaS**, **loyalty and incentive platforms**, **payment integrations**, and **document processing**. I focus on API development, multi-tenant architecture, database optimization, and practical business workflows.
 
-## 🛠️ Technology Stack
+I'm currently working on **[Loyalty Nest](https://loyaltynestai.com/)**, including an AI reporting module that generates reports from natural-language requests using **RAG, embeddings, text chunking, and an Azure-hosted GPT model**.
 
-<div align="center">
+---
 
-### Backend and Architecture
+## 🛠️ Technical Skills
 
-<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-<img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
-<img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Entity Framework Core" />
-<img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
-<img src="https://img.shields.io/badge/Clean%20Architecture-111827?style=for-the-badge" alt="Clean Architecture" />
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge" alt="C#" />
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge" alt="ASP.NET Core" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge" alt="Angular" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge" alt="Azure" />
+  <img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge" alt="RAG" />
+</p>
 
-### AI, Search, and Document Processing
+| Area | Technologies and Skills |
+|---|---|
+| **Languages** | C#, SQL |
+| **Frontend** | Angular, Razor |
+| **Backend** | ASP.NET Core, Web API, MVC, Razor Pages |
+| **Data** | SQL Server, Entity Framework Core, LINQ, stored procedures, query optimization |
+| **Architecture** | Clean Architecture, Repository Pattern, SOLID principles, multi-tenancy |
+| **Security** | JWT authentication, OAuth 2.0, RBAC, AES-256 encryption |
+| **Azure** | Azure Key Vault, Azure Cognitive Services (OCR), Azure-hosted GPT models |
+| **AI Integration** | Retrieval-augmented generation (RAG), embeddings, text chunking |
+| **Testing and Code Quality** | Manual testing, SonarQube |
+| **Tools** | Git, Asana |
 
-<img src="https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure OpenAI" />
-<img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge" alt="RAG" />
-<img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant" />
-<img src="https://img.shields.io/badge/Embeddings-0EA5E9?style=for-the-badge" alt="Embeddings" />
-<img src="https://img.shields.io/badge/OCR-059669?style=for-the-badge" alt="OCR" />
-<img src="https://img.shields.io/badge/Tesseract-4285F4?style=for-the-badge" alt="Tesseract OCR" />
-
-### Data, Cloud, and Tools
-
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio" />
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-
-### Frontend and Additional Skills
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/Razor-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Razor" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-
-</div>
-
-
-
-### 🚀 What I'm Working On
-
-- 🤖 AI-powered CRM & Chat Applications using OpenAI
-- 🎁 Loyalty & Reward Management Platforms
-- 💳 Payment Gateway Integration (Cashfree & Razorpay)
-- 🌐 Enterprise Web Applications with ASP.NET Core & React
-- ⚡ REST APIs, Authentication & Clean Architecture
-- 📊 SQL Server Optimization & Report Automation
-
-### 💡 Ask Me About
-
-- ASP.NET Core Web API
-- C#
-- Entity Framework Core
-- SQL Server
-- React & Next.js
-- REST API Development
-- AI Integration
-- OpenAI APIs
-- Payment Gateway Integration
-- Clean Architecture
-
-### 🌱 Currently Learning
-
-- AI Agents
-- MCP (Model Context Protocol)
-- Advanced AI Automation
-- Cloud Deployment & DevOps
-
-### 🏆 Experience
-
-- 💼 Full Stack .NET Developer
-- 🏢 CFCS Cloud Solutions Pvt. Ltd.
-
-### 📫 Contact
-
-- 📧 subham.vishwakarma527@gmail.com
 ---
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### 🎁 Loyalty Nest — QR-Based Loyalty & Incentive Platform
 
-### 📄 Document RAG AI
+**Current project** · [Visit Loyalty Nest →](https://loyaltynestai.com/)
 
-A document question-answering system that processes PDFs, generates embeddings, retrieves relevant context, and produces source-grounded answers.
+A loyalty and incentive platform with payment integration and AI reporting.
 
-**Highlights**
+- Developed an **AI reporting module** that generates reports from natural-language requests using **RAG, embeddings, text chunking, and an Azure-hosted GPT model**.
+- Supported **50,000+ QR scans per month** with sub-second responses across **10+ enterprises** and **10,000+ monthly users**.
+- Integrated **Cashfree payouts** and **AES-256 encryption** for a platform serving **2,000+ merchants**, with approximately **99.5% transaction success**.
 
-- Digital PDF text extraction
-- OCR for image-only and mixed PDFs
-- Intelligent chunking with page metadata
-- Azure OpenAI embeddings
-- Qdrant vector search
-- Context-aware follow-up questions
-- Page-level source citations
+**Stack:** ASP.NET Core, SQL Server, Azure-hosted GPT, RAG, Cashfree integration.
 
-**Stack:** ASP.NET Core, C#, Azure OpenAI, Qdrant, PdfPig, Tesseract OCR
+### 📦 Omni Assist — Sales & Distribution Management
 
-[View repository →](https://github.com/YOUR_GITHUB_USERNAME/DocumentRagAi)
+[Visit Omni Assist →](https://www.omniassist.co.in/)
 
-</td>
-<td width="50%" valign="top">
+A multi-tenant B2B SaaS platform for sales and distribution workflows.
 
-### ⚖️ Indian Legal AI
+- Developed **purchase order, invoicing, reconciliation, and inventory management** workflows.
+- Implemented **RBAC and tenant isolation**.
+- Built **offline synchronization with conflict handling**, implemented **AES-256 encryption**, and added **disaster recovery support**.
 
-A legal-assistance architecture that combines a verified Indian-law knowledge base with private user documents.
+**Stack:** ASP.NET Core 6, Entity Framework Core, SQL Server.
 
-**Highlights**
+### 📇 Business Card OCR Contact Manager
 
-- Separate public-law and private-document collections
-- Tenant-scoped retrieval and privacy filters
-- Hybrid legal search
-- Legal citation support
-- Case-document analysis
-- Structured, human-readable answers
-- Safety and source-verification workflow
+[Visit Kardblink →](https://kardblink.com/)
 
-**Stack:** ASP.NET Core, SQL Server, Azure OpenAI, Qdrant, RAG
+A document-processing application that digitizes business cards and connects contact information to CRM workflows.
 
-[View repository →](https://github.com/YOUR_GITHUB_USERNAME/IndianLegalAi)
+- Integrated **Azure Cognitive Services OCR** with approximately **95% accuracy**.
+- Supported **five languages** and **500+ professionals**.
+- Connected extracted contact data to CRM workflows, reducing manual contact entry by up to **90%**.
 
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 📊 LoyaltyNest CRM AI
-
-A natural-language reporting system that converts business questions into validated, company-filtered CRM reports.
-
-**Highlights**
-
-- Intent classification
-- Deterministic report generation
-- Safe SQL generation and validation
-- Company-level data isolation
-- Conversation and follow-up context
-- Report charts and source metadata
-- Token-usage and cost logging
-
-**Stack:** ASP.NET Core, C#, SQL Server, Azure OpenAI
-
-[View repository →](https://github.com/YOUR_GITHUB_USERNAME/LoyaltyNestCrmAi)
-
-</td>
-<td width="50%" valign="top">
-
-### 🎁 Gift Card Integration
-
-A secure gift-card redemption workflow integrated with customer points, transaction history, and an external payment provider.
-
-**Highlights**
-
-- Product synchronization
-- Customer points validation
-- Order and redemption tracking
-- Encrypted card information
-- Idempotent external references
-- Failure handling and audit logging
-- Customer gift-card listing
-
-**Stack:** ASP.NET Core, C#, SQL Server, REST APIs
-
-[View all repositories →](https://github.com/YOUR_GITHUB_USERNAME?tab=repositories)
-
-</td>
-</tr>
-</table>
+**Stack:** Azure Cognitive Services (OCR), CRM integration.
 
 ---
 
+## 💼 Professional Experience
+
+### Software Engineer · CFCS Cloud Solutions Pvt. Ltd.
+
+**Jan 2023 – Present · Noida, India**
+
+- Designed and deployed **three ASP.NET Core applications** serving **10,000+ users**.
+- Built REST APIs and integrated payment gateways, SMS services, email providers, and Azure services.
+- Improved API performance through SQL query tuning, EF Core improvements, caching, and parallel processing.
+- Mentored **three junior developers** in clean coding, SOLID principles, and software design patterns.
+
+### Backend Developer Intern · Arthum Pvt. Ltd.
+
+**Apr 2022 – Sep 2022 · Noida, India**
+
+- Developed and documented **50+ REST APIs** for applications supporting **5,000+ daily users**.
+- Implemented **JWT and OAuth 2.0 authentication** and contributed to payment processing and reward workflows.
+- Performed **manual functional testing** and used **SonarQube** to identify code quality issues.
 
 ---
 
-## 🧩 What I Build
+## 🎓 Education
 
-| Area | Experience |
-|---|---|
-| **Backend Development** | ASP.NET Core APIs, dependency injection, middleware, authentication, validation, logging |
-| **AI Integration** | Azure OpenAI, prompt engineering, intent detection, embeddings, structured responses |
-| **RAG Systems** | Document ingestion, chunking, vector retrieval, reranking, source-grounded answers |
-| **Document Intelligence** | PDF extraction, OCR fallback, scanned-page rendering, page-level metadata |
-| **Database Engineering** | SQL Server design, stored procedures, EF Core, indexing, safe dynamic reporting |
-| **Application Architecture** | Clean architecture, modular services, privacy boundaries, multi-tenant filtering |
-| **Production Readiness** | Error handling, observability, security checks, deployment configuration |
-
----
-
+**Bachelor of Technology — Information Technology**  
+Noida Institute of Engineering and Technology · **2019–2023**
 
 ---
 
 ## 🤝 Connect With Me
 
-<div align="center">
-
-<a href="mailto:subham.vishwakarma527@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Send%20a%20Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://www.linkedin.com/in/subham790552/">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<br/><br/>
-
-### “Build for production, not only for the demo.”
-
-</div>
+- **Email:** [subham.vishwakarma527@gmail.com](mailto:subham.vishwakarma527@gmail.com)
+- **LinkedIn:** [Subham Vishwakarma](https://www.linkedin.com/in/subham790552/)
