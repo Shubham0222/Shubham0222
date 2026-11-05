@@ -30,7 +30,7 @@ I'm a **.NET Full Stack Engineer** with **3+ years of full-time experience** bui
 
 My work spans **B2B SaaS**, **loyalty and incentive platforms**, **payment integrations**, and **document processing**. I focus on API development, multi-tenant architecture, database optimization, and practical business workflows.
 
-I'm currently working on **[Loyalty Nest](https://loyaltynestai.com/)**, including an AI reporting module that generates reports from natural-language requests using **RAG, embeddings, text chunking, and an Azure-hosted GPT model**.
+
 
 ---
 
